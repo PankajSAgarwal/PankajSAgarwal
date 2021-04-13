@@ -4,6 +4,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/pankaj_dynamic)
 
+
+I am a qualified IT professional with experience in Java and Java related echo systems.
 <!--
 **PankajSAgarwal/PankajSAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
