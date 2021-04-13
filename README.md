@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/pankaj_dynamic)
 
 
-I am a qualified IT professional with experience in Java and Java related echo systems.
+I am a qualified IT professional with experience in Java/JakartaEE, Devops,SpringBoot, Javascript, SQL, Docker, AWS, cloud foundry, architecture, clean code, domain modeling, Java Concurrency, microservices, REST, automated tests,Design Patterns, DataStructures, ECM and BPM using IBM Case Manager and FilenetP8 .
 <!--
 **PankajSAgarwal/PankajSAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
